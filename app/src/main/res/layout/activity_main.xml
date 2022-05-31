@@ -79,7 +79,7 @@
                         android:layout_height="match_parent"
                         android:layout_weight="1"
                         android:background="#000"
-                        android:text="C"
+                        android:text="DEL"
                         android:textColor="#ffa500"
                         android:textSize="30sp">
 
